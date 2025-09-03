@@ -1,1 +1,3 @@
-https://github.com/rspilaya-prog/promedio-temperaturas.git
+promedio-temperaturas.
+ Cálculo de promedios de temperaturas usando matrices 3D.
+Quito y Guayaquil 
